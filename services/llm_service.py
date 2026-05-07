@@ -1,6 +1,6 @@
 import logging
 import base64
-from huggingface_hub import InferenceClient
+
 
 logger = logging.getLogger(__name__)
 
